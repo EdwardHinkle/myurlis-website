@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11c93341-0ce1-426f-91f4-9ff95a880ba7" name="Default Changelist" comment="" />
+    <list default="true" id="11c93341-0ce1-426f-91f4-9ff95a880ba7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_public/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_public/feed.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,57 +19,94 @@
     <session id="1596937857">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="1" />
-          <entry key="md" value="1" />
+          <entry key="html" value="3" />
+          <entry key="md" value="3" />
+          <entry key="rb" value="3" />
+          <entry key="rss" value="2" />
           <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="HTML" value="3" />
+          <entry key="PLAIN_TEXT" value="8" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="760" />
+          <entry key="html" value="772" />
+          <entry key="md" value="324" />
+          <entry key="rb" value="5" />
+          <entry key="rss" value="218" />
+          <entry key="xml" value="24" />
           <entry key="yml" value="98" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="760" />
+          <entry key="HTML" value="772" />
+          <entry key="PLAIN_TEXT" value="547" />
+          <entry key="XML" value="24" />
           <entry key="YAML" value="98" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_source/podcast.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="31" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_source/_posts/2018-09-30-teaser.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_source/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+            <state relative-caret-position="600">
+              <caret line="40" column="78" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="78" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_source/index.html" />
+        <option value="$PROJECT_DIR$/_source/_plugins/podcast_rss.rb" />
+        <option value="$PROJECT_DIR$/_source/_layouts/podcast_rss.rss" />
+        <option value="$PROJECT_DIR$/_source/podcast.rss" />
+        <option value="$PROJECT_DIR$/_source/podcast.xml" />
+        <option value="$PROJECT_DIR$/_source/_posts/teaser.md" />
+        <option value="$PROJECT_DIR$/_source/_posts/2018-09-30-teaser.md" />
       </list>
     </option>
   </component>
@@ -79,6 +120,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -95,7 +137,18 @@
             <path>
               <item name="myurlis" type="b2602c69:ProjectViewProjectNode" />
               <item name="myurlis" type="462c0819:PsiDirectoryNode" />
+              <item name="_public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myurlis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myurlis" type="462c0819:PsiDirectoryNode" />
               <item name="_source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myurlis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myurlis" type="462c0819:PsiDirectoryNode" />
+              <item name="_source" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myurlis" type="b2602c69:ProjectViewProjectNode" />
@@ -108,7 +161,7 @@
               <item name="myurlis" type="462c0819:PsiDirectoryNode" />
               <item name="_source" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="audio" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,12 +198,13 @@
       <option name="presentableId" value="Default" />
       <updated>1538079538296</updated>
       <workItem from="1538079540050" duration="102000" />
-      <workItem from="1538079925868" duration="717000" />
+      <workItem from="1538079925868" duration="1538000" />
+      <workItem from="1538170673360" duration="2648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="819000" />
+    <option name="totallyTimeSpent" value="4288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -190,10 +244,38 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_source/about.md" />
+    <entry file="file://$PROJECT_DIR$/_source/_plugins/podcast_rss.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_source/_layouts/podcast_rss.rss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="12" lean-forward="true" selection-end-line="49" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_source/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+        <state relative-caret-position="600">
+          <caret line="40" column="78" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_source/podcast.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_source/_posts/2018-09-30-teaser.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
