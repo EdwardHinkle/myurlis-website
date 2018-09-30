@@ -13,6 +13,7 @@ layout: null
       <itunes:subtitle>Stories from the IndieWeb</itunes:subtitle>
     {% endif %}
     <itunes:author>Eddie Hinkle</itunes:author>
+    <itunes:email>hello@eddiehinkle.com</itunes:email>
     <description><![CDATA[
         A bi-weekly guest podcast hosted by Eddie Hinkle where he has conversations and interviews various people throughout the IndieWeb community to learn more about them, their interests and desires in the IndieWeb and what they've added to their website lately.
     ]]></description>
