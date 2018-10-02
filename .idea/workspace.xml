@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11c93341-0ce1-426f-91f4-9ff95a880ba7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_public/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_public/episodes/000.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_public/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_public/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_public/podcast.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_public/podcast.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_source/_posts/2018-09-30-teaser.md" beforeDir="false" afterPath="$PROJECT_DIR$/_source/_posts/2018-09-30-teaser.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_source/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_source/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_source/_posts/2018-09-30-teaser.md" beforeDir="false" afterPath="$PROJECT_DIR$/_source/_posts/2018-10-02-teaser.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -50,7 +43,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="1684" />
-          <entry key="md" value="359" />
+          <entry key="md" value="364" />
           <entry key="rb" value="5" />
           <entry key="rss" value="218" />
           <entry key="xml" value="236" />
@@ -60,7 +53,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="1684" />
-          <entry key="PLAIN_TEXT" value="582" />
+          <entry key="PLAIN_TEXT" value="587" />
           <entry key="XML" value="236" />
           <entry key="YAML" value="98" />
         </counts>
@@ -78,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_source/_posts/2018-09-30-teaser.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_source/_posts/2018-10-02-teaser.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            <state relative-caret-position="15">
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -96,7 +89,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_source/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="570">
@@ -123,6 +116,7 @@
         <option value="$PROJECT_DIR$/_source/podcast.xml" />
         <option value="$PROJECT_DIR$/_source/_posts/2018-09-30-teaser.md" />
         <option value="$PROJECT_DIR$/_source/index.html" />
+        <option value="$PROJECT_DIR$/_source/_posts/2018-10-02-teaser.md" />
       </list>
     </option>
   </component>
@@ -216,12 +210,12 @@
       <workItem from="1538079540050" duration="102000" />
       <workItem from="1538079925868" duration="1538000" />
       <workItem from="1538170673360" duration="3085000" />
-      <workItem from="1538499093676" duration="2599000" />
+      <workItem from="1538499093676" duration="2798000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7324000" />
+    <option name="totallyTimeSpent" value="7523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -277,17 +271,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_source/_posts/2018-09-30-teaser.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_source/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="65" column="12" lean-forward="true" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_source/_posts/2018-10-02-teaser.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
         </state>
       </provider>
     </entry>
