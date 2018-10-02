@@ -53,6 +53,10 @@ layout: null
             .podcast-episodes .episode a {
                 color: #fff;
             }
+
+            .podcast-audio {
+                display: block;
+            }
         </style>
     </head>
     <body>
@@ -72,7 +76,7 @@ layout: null
                 <div class="episode h-entry">
                     {% assign episode_permalink = episode.url | prepend: site.baseurl | prepend: site.url %}
                     <a class="u-url" href="{{episode_permalink}}"><img height="200px" class="u-featured" src="{{episode.photo}}"></a>
-                    <audio class="u-audio" src="{{episode.audio}}" conrtols></audio>
+                    <audio class="podcast-audio u-audio" src="{{episode.audio}}" controls></audio>
                     <h4><a href="{{episode_permalink}}" class="p-name">{{episode.title}}</a></h4>
                 </div>
             {% endfor %}
