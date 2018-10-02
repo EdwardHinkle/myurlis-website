@@ -10,7 +10,7 @@
             }
 
             .blank_badge {
-                width: 40%;
+                height: 200px;
                 margin: 0 auto;
                 display: block;
             }
@@ -35,18 +35,42 @@
                 font-size: 1.2em;
                 margin-top: 50px;
             }
+
+            .podcast-episodes {
+                max-width: 50%;
+                margin: 0 auto;
+                display: flex;
+            }
+
+            .podcast-episodes .episode {
+                flex: 1;
+            }
+
+            .podcast-episodes .episode a {
+                color: #fff;
+            }
         </style>
     </head>
     <body>
-        <img class="blank_badge" width="40%" src="assets/images/badge_logo.png">
+        <img class="blank_badge" height="200px" src="assets/images/badge_logo.png">
         <h2>A new podcast, playing in your headphones starting on October 3, 2018</h2>
-        <!--<p class="action-message">Subscribe below using your favorite podcast player:</p>-->
-        <!--<div class="subscribe-links">-->
-            <!--<a href=""><img src="assets/images/icons/apple.svg" width="50px"></a>-->
-            <!--<a href=""><img src="assets/images/icons/overcast.svg" width="50px"></a>-->
-            <!--<a href=""><img src="assets/images/icons/castro.svg" width="50px"></a>-->
-            <!--<a href=""><img src="assets/images/icons/pocketcasts.svg" width="50px"></a>-->
-            <!--<a href=""><img src="assets/images/icons/rss.svg" width="50px"></a>-->
-        <!--</div>-->
+        <p class="action-message">Subscribe below using your favorite podcast player:</p>
+        <div class="subscribe-links">
+            <a href=""><img src="assets/images/icons/apple.svg" width="50px"></a>
+            <a href=""><img src="assets/images/icons/overcast.svg" width="50px"></a>
+            <a href=""><img src="assets/images/icons/castro.svg" width="50px"></a>
+            <a href=""><img src="assets/images/icons/pocketcasts.svg" width="50px"></a>
+            <a href=""><img src="assets/images/icons/rss.svg" width="50px"></a>
+        </div>
+
+        <div class="podcast-episodes">
+            
+                <div class="episode">
+                    
+                    <a href="https://myurlis.com/episodes/000"><img height="200px" src="https://myurlis.com/assets/images/podcast_cover.jpg"></a>
+                    <h4><a href="https://myurlis.com/episodes/000">Teaser Trailer</a></h4>
+                </div>
+            
+        </div>
     </body>
 </html>

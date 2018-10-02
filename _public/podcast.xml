@@ -18,12 +18,14 @@
     
       
       <item>
-        <title>Teaser Trailer</title>
+        <title>My Url Is Teaser Trailer </title>
         <itunes:author>Eddie Hinkle</itunes:author>
         <description><![CDATA[
-        <p>Find this episode on the web at <a href="https://myurlis.com/episodes/000">https://myurlis.com/episodes/000</a>.</p>
         <p>A teaser trailer for the upcoming My Url Is podcast. Episode 1 is available on October 3, 2018.</p>
-]]></description>
+
+        <p>Find this episode on the web at <a href="https://myurlis.com/episodes/000">https://myurlis.com/episodes/000</a>.</p>
+        <audio src="https://myurlis.com/assets/audio/teaser-trailer.mp3"></audio>
+        ]]></description>
         
           <itunes:image href="https://myurlis.com/assets/images/podcast_cover.jpg"/>
         

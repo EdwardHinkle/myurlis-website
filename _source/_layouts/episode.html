@@ -41,11 +41,10 @@
     </style>
 </head>
 <body class="h-entry">
-    <img class="u-featured podcast-image" height="200px" src="https://myurlis.com/assets/images/podcast_cover.jpg">
-    <audio class="u-audio podcast-audio" src="https://myurlis.com/assets/audio/teaser-trailer.mp3" controls></audio>
+    <img class="u-featured podcast-image" height="200px" src="{{page.photo}}">
+    <audio class="u-audio podcast-audio" src="{{page.audio}}" controls></audio>
     <a href="/" class="all-episodes-link">View All Episodes</a>
-    <h2 class="p-name">Teaser Trailer</h2>
-    <div class="e-content podcast-notes"><p>A teaser trailer for the upcoming My Url Is podcast. Episode 1 is available on October 3, 2018.</p>
-</div>
+    <h2 class="p-name">{{page.title}}</h2>
+    <div class="e-content podcast-notes">{{page.content}}</div>
 </body>
 </html>

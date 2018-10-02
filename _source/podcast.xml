@@ -23,11 +23,13 @@ layout: null
     {% for episode in site.posts %}
       {% assign episode_permalink = episode.url | prepend: site.baseurl | prepend: site.url %}
       <item>
-        <title>{{ episode.title }}</title>
+        <title>My Url Is {{ episode.title }} {% if episode.episode_number %}(Episode {{episode.episode_number}}){% endif %}</title>
         <itunes:author>{{ episode.authors }}</itunes:author>
         <description><![CDATA[
+        {{ episode.content }}
         <p>Find this episode on the web at <a href="{{ episode_permalink }}">{{ episode_permalink }}</a>.</p>
-        {{ episode.content }}]]></description>
+        <audio src="{{ episode.audio }}"></audio>
+        ]]></description>
         {% if episode.photo %}
           <itunes:image href="{{ episode.photo }}"/>
         {% endif %}
