@@ -33,6 +33,7 @@ layout: null
         {% if episode.photo %}
           <itunes:image href="{{ episode.photo }}"/>
         {% endif %}
+        <link>{{ episode.url | prepend: site.baseurl | prepend: site.url }}</link>
         <enclosure type="audio/mpeg" {% if episode.enclosure %}length="{{episode.enclosure}}"{% endif %} url="{{ episode.audio }}"/>
         <guid>{{ episode_permalink }}</guid>
         <pubDate>{{ episode.date | date_to_rfc822 }}</pubDate>

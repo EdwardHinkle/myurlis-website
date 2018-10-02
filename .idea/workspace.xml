@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11c93341-0ce1-426f-91f4-9ff95a880ba7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_source/_posts/2018-09-30-teaser.md" beforeDir="false" afterPath="$PROJECT_DIR$/_source/_posts/2018-10-02-teaser.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_source/podcast.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_source/podcast.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -46,7 +46,7 @@
           <entry key="md" value="364" />
           <entry key="rb" value="5" />
           <entry key="rss" value="218" />
-          <entry key="xml" value="236" />
+          <entry key="xml" value="247" />
           <entry key="yml" value="98" />
         </counts>
       </usages-collector>
@@ -54,7 +54,7 @@
         <counts>
           <entry key="HTML" value="1684" />
           <entry key="PLAIN_TEXT" value="587" />
-          <entry key="XML" value="236" />
+          <entry key="XML" value="247" />
           <entry key="YAML" value="98" />
         </counts>
       </usages-collector>
@@ -62,16 +62,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_source/podcast.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="94" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="94" />
+            <state relative-caret-position="525">
+              <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_source/_posts/2018-10-02-teaser.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -113,10 +113,10 @@
         <option value="$PROJECT_DIR$/_source/_posts/teaser.md" />
         <option value="$PROJECT_DIR$/_source/layouts/episode.html" />
         <option value="$PROJECT_DIR$/_source/_layouts/episode.html" />
-        <option value="$PROJECT_DIR$/_source/podcast.xml" />
         <option value="$PROJECT_DIR$/_source/_posts/2018-09-30-teaser.md" />
         <option value="$PROJECT_DIR$/_source/index.html" />
         <option value="$PROJECT_DIR$/_source/_posts/2018-10-02-teaser.md" />
+        <option value="$PROJECT_DIR$/_source/podcast.xml" />
       </list>
     </option>
   </component>
@@ -210,12 +210,12 @@
       <workItem from="1538079540050" duration="102000" />
       <workItem from="1538079925868" duration="1538000" />
       <workItem from="1538170673360" duration="3085000" />
-      <workItem from="1538499093676" duration="2798000" />
+      <workItem from="1538499093676" duration="3060000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7523000" />
+    <option name="totallyTimeSpent" value="7785000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -257,13 +257,6 @@
     <entry file="file://$PROJECT_DIR$/_source/about.md" />
     <entry file="file://$PROJECT_DIR$/_source/_plugins/podcast_rss.rb" />
     <entry file="file://$PROJECT_DIR$/_source/_layouts/podcast_rss.rss" />
-    <entry file="file://$PROJECT_DIR$/_source/podcast.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="94" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_source/_layouts/episode.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -282,6 +275,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_source/podcast.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
         </state>
       </provider>
     </entry>
