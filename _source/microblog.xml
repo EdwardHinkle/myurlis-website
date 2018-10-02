@@ -25,9 +25,7 @@ layout: null
       <item>
         <itunes:author>{{ episode.authors }}</itunes:author>
         <description><![CDATA[
-        My Url Is {{ episode.title }} {% if episode.episode_number %}(Episode {{episode.episode_number}}){% endif %}
-        <a href="{{episode_permalink}}">myurlis.com</a>
-        <audio src="{{ episode.audio }}"></audio>
+        My Url Is {{ episode.title }} {% if episode.episode_number %}(Episode {{episode.episode_number}}){% endif %}<a href="{{episode_permalink}}">myurlis.com</a><audio src="{{ episode.audio }}"></audio>
         ]]></description>
         {% if episode.photo %}
           <itunes:image href="{{ episode.photo }}"/>

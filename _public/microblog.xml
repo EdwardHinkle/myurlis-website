@@ -20,9 +20,7 @@
       <item>
         <itunes:author>Eddie Hinkle</itunes:author>
         <description><![CDATA[
-        My Url Is Teaser Trailer 
-        <a href="https://myurlis.com/episodes/000/">myurlis.com</a>
-        <audio src="https://myurlis.com/assets/audio/teaser-trailer.mp3"></audio>
+        My Url Is Teaser Trailer <a href="https://myurlis.com/episodes/000/">myurlis.com</a><audio src="https://myurlis.com/assets/audio/teaser-trailer.mp3"></audio>
         ]]></description>
         
           <itunes:image href="https://myurlis.com/assets/images/podcast_cover.jpg"/>
