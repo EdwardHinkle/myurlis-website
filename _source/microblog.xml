@@ -1,0 +1,45 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://myurlis.com/podcast.rss" rel="self" type="application/rss+xml" />
+    <title>My Url Is</title>
+    <link>https://myurlis.com/</link>
+    <language>en-us</language>
+    <copyright>&#x2117; &amp; &#xA9; {{ 'now' | date: "%Y" }} Eddie Hinkle</copyright>
+    {% if page.podcast_subtitle %}
+      <itunes:subtitle>Stories from the IndieWeb</itunes:subtitle>
+    {% endif %}
+    <itunes:author>Eddie Hinkle</itunes:author>
+    <itunes:email>hello@eddiehinkle.com</itunes:email>
+    <description><![CDATA[
+        A bi-weekly guest podcast hosted by Eddie Hinkle where he has conversations and interviews various people throughout the IndieWeb community to learn more about them, their interests and desires in the IndieWeb and what they've added to their website lately.
+    ]]></description>
+    <itunes:image href="https://myurlis.com/assets/images/podcast_cover.jpg"/>
+    <itunes:category text="Society &amp; Culture" />
+    <itunes:explicit>no</itunes:explicit>
+    {% for episode in site.posts %}
+      {% assign episode_permalink = episode.url | prepend: site.baseurl | prepend: site.url %}
+      <item>
+        <itunes:author>{{ episode.authors }}</itunes:author>
+        <description><![CDATA[
+        My Url Is {{ episode.title }} {% if episode.episode_number %}(Episode {{episode.episode_number}}){% endif %}
+        <a href="{{episode_permalink}}">myurlis.com</a>
+        <audio src="{{ episode.audio }}"></audio>
+        ]]></description>
+        {% if episode.photo %}
+          <itunes:image href="{{ episode.photo }}"/>
+        {% endif %}
+        <link>{{ episode.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <guid>{{ episode_permalink }}</guid>
+        <pubDate>{{ episode.date | date_to_rfc822 }}</pubDate>
+        {% if episode.duration %}
+          <itunes:duration>{{episode.duration}}</itunes:duration>
+        {% endif %}
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>

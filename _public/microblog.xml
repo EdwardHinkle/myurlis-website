@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://myurlis.com/podcast.rss" rel="self" type="application/rss+xml" />
+    <title>My Url Is</title>
+    <link>https://myurlis.com/</link>
+    <language>en-us</language>
+    <copyright>&#x2117; &amp; &#xA9; 2018 Eddie Hinkle</copyright>
+    
+    <itunes:author>Eddie Hinkle</itunes:author>
+    <itunes:email>hello@eddiehinkle.com</itunes:email>
+    <description><![CDATA[
+        A bi-weekly guest podcast hosted by Eddie Hinkle where he has conversations and interviews various people throughout the IndieWeb community to learn more about them, their interests and desires in the IndieWeb and what they've added to their website lately.
+    ]]></description>
+    <itunes:image href="https://myurlis.com/assets/images/podcast_cover.jpg"/>
+    <itunes:category text="Society &amp; Culture" />
+    <itunes:explicit>no</itunes:explicit>
+    
+      
+      <item>
+        <itunes:author>Eddie Hinkle</itunes:author>
+        <description><![CDATA[
+        My Url Is Teaser Trailer 
+        <a href="https://myurlis.com/episodes/000/">myurlis.com</a>
+        <audio src="https://myurlis.com/assets/audio/teaser-trailer.mp3"></audio>
+        ]]></description>
+        
+          <itunes:image href="https://myurlis.com/assets/images/podcast_cover.jpg"/>
+        
+        <link>https://myurlis.com/episodes/000/</link>
+        <guid>https://myurlis.com/episodes/000/</guid>
+        <pubDate>Tue, 02 Oct 2018 12:00:00 -0400</pubDate>
+        
+          <itunes:duration>1:38</itunes:duration>
+        
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    
+  </channel>
+</rss>
