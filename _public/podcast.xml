@@ -29,6 +29,7 @@
         
           <itunes:image href="https://myurlis.com/assets/images/podcast_cover.jpg"/>
         
+        <link>https://myurlis.com/episodes/000/</link>
         <enclosure type="audio/mpeg" length="1560961" url="https://myurlis.com/assets/audio/teaser-trailer.mp3"/>
         <guid>https://myurlis.com/episodes/000/</guid>
         <pubDate>Tue, 02 Oct 2018 12:00:00 -0400</pubDate>
