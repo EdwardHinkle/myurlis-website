@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11c93341-0ce1-426f-91f4-9ff95a880ba7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_public/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_public/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_source/_layouts/episode.html" beforeDir="false" afterPath="$PROJECT_DIR$/_source/_layouts/episode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_source/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_source/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -45,7 +45,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="1737" />
+          <entry key="html" value="1830" />
           <entry key="md" value="364" />
           <entry key="rb" value="5" />
           <entry key="rss" value="218" />
@@ -55,7 +55,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1737" />
+          <entry key="HTML" value="1830" />
           <entry key="PLAIN_TEXT" value="587" />
           <entry key="XML" value="311" />
           <entry key="YAML" value="98" />
@@ -86,22 +86,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_source/_layouts/episode.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_source/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+            <state relative-caret-position="675">
+              <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_source/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="74" column="97" lean-forward="true" selection-start-line="74" selection-start-column="97" selection-end-line="74" selection-end-column="97" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_source/microblog.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="525">
@@ -124,12 +124,12 @@
         <option value="$PROJECT_DIR$/_source/podcast.rss" />
         <option value="$PROJECT_DIR$/_source/_posts/teaser.md" />
         <option value="$PROJECT_DIR$/_source/layouts/episode.html" />
-        <option value="$PROJECT_DIR$/_source/_layouts/episode.html" />
         <option value="$PROJECT_DIR$/_source/_posts/2018-09-30-teaser.md" />
         <option value="$PROJECT_DIR$/_source/_posts/2018-10-02-teaser.md" />
         <option value="$PROJECT_DIR$/_source/podcast.xml" />
-        <option value="$PROJECT_DIR$/_source/index.html" />
         <option value="$PROJECT_DIR$/_source/microblog.xml" />
+        <option value="$PROJECT_DIR$/_source/_layouts/episode.html" />
+        <option value="$PROJECT_DIR$/_source/index.html" />
       </list>
     </option>
   </component>
@@ -228,12 +228,12 @@
       <workItem from="1538079540050" duration="102000" />
       <workItem from="1538079925868" duration="1538000" />
       <workItem from="1538170673360" duration="3085000" />
-      <workItem from="1538499093676" duration="3704000" />
+      <workItem from="1538499093676" duration="3799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8429000" />
+    <option name="totallyTimeSpent" value="8524000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -275,13 +275,6 @@
     <entry file="file://$PROJECT_DIR$/_source/about.md" />
     <entry file="file://$PROJECT_DIR$/_source/_plugins/podcast_rss.rb" />
     <entry file="file://$PROJECT_DIR$/_source/_layouts/podcast_rss.rss" />
-    <entry file="file://$PROJECT_DIR$/_source/_layouts/episode.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_source/_posts/2018-10-02-teaser.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -296,17 +289,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_source/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_source/microblog.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_source/_layouts/episode.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_source/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="74" column="97" lean-forward="true" selection-start-line="74" selection-start-column="97" selection-end-line="74" selection-end-column="97" />
         </state>
       </provider>
     </entry>

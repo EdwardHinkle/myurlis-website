@@ -67,12 +67,12 @@ layout: null
             <a href="http://feeds.myurlis.com/podcast"><img src="assets/images/icons/rss.svg" width="50px"></a>
         </div>
 
-        <div class="podcast-episodes">
+        <div class="podcast-episodes h-feed">
             {% for episode in site.posts %}
-                <div class="episode">
+                <div class="episode h-entry">
                     {% assign episode_permalink = episode.url | prepend: site.baseurl | prepend: site.url %}
-                    <a href="{{episode_permalink}}"><img height="200px" src="{{episode.photo}}"></a>
-                    <h4><a href="{{episode_permalink}}">{{episode.title}}</a></h4>
+                    <a class="u-url" href="{{episode_permalink}}"><img height="200px" class="u-featured" src="{{episode.photo}}"></a>
+                    <h4><a href="{{episode_permalink}}" class="p-name">{{episode.title}}</a></h4>
                 </div>
             {% endfor %}
         </div>
