@@ -23,15 +23,15 @@
         <description><![CDATA[
         <p>A teaser trailer for the upcoming My Url Is podcast. Episode 1 is available on October 3, 2018.</p>
 
-        <p>Find this episode on the web at <a href="https://myurlis.com/episodes/000/">https://myurlis.com/episodes/000/</a>.</p>
+        <p>Find this episode on the web at <a href="http://localhost:4000/episodes/000/">http://localhost:4000/episodes/000/</a>.</p>
         <audio src="https://myurlis.com/assets/audio/teaser-trailer.mp3"></audio>
         ]]></description>
         
           <itunes:image href="https://myurlis.com/assets/images/podcast_cover.jpg"/>
         
-        <link>https://myurlis.com/episodes/000/</link>
+        <link>http://localhost:4000/episodes/000/</link>
         <enclosure type="audio/mpeg" length="1560961" url="https://myurlis.com/assets/audio/teaser-trailer.mp3"/>
-        <guid>https://myurlis.com/episodes/000/</guid>
+        <guid>http://localhost:4000/episodes/000/</guid>
         <pubDate>Tue, 02 Oct 2018 12:00:00 -0400</pubDate>
         
           <itunes:duration>1:38</itunes:duration>

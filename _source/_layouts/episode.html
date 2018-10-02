@@ -7,6 +7,7 @@
             background: #777777;
             color: #ffffff;
             font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif;
+            line-height: 1.5em;
         }
 
         .podcast-image {
@@ -38,13 +39,24 @@
             display: block;
         }
 
+        a {
+            color: #fff;
+            font-weight: bold;
+        }
+
+        @media (max-width: 900px) {
+            .podcast-notes, .podcast-audio {
+                width: 90%;
+            }
+        }
+
     </style>
 </head>
 <body class="h-entry">
     <img class="u-featured podcast-image" height="200px" src="{{page.photo}}">
     <audio class="u-audio podcast-audio" src="{{page.audio}}" controls></audio>
     <a href="/" class="all-episodes-link">View All Episodes</a>
-    <h2 class="p-name">{{page.title}}</h2>
+    <h2 class="p-name">My Url Is {{ page.title }} {% if page.episode_number %}(Episode {{page.episode_number}}){% endif %}</h2>
     <div class="e-content podcast-notes">{{page.content}}</div>
     <a href="" class="u-url"></a>
 </body>
