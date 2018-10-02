@@ -48,7 +48,7 @@
           <entry key="md" value="364" />
           <entry key="rb" value="5" />
           <entry key="rss" value="218" />
-          <entry key="xml" value="321" />
+          <entry key="xml" value="325" />
           <entry key="yml" value="98" />
         </counts>
       </usages-collector>
@@ -56,7 +56,7 @@
         <counts>
           <entry key="HTML" value="2004" />
           <entry key="PLAIN_TEXT" value="587" />
-          <entry key="XML" value="321" />
+          <entry key="XML" value="325" />
           <entry key="YAML" value="98" />
         </counts>
       </usages-collector>
@@ -104,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/_source/microblog.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="26" column="174" selection-start-line="26" selection-start-column="174" selection-end-line="26" selection-end-column="174" />
+              <caret line="26" column="243" selection-start-line="26" selection-start-column="243" selection-end-line="26" selection-end-column="243" />
             </state>
           </provider>
         </entry>
@@ -232,12 +232,12 @@
       <workItem from="1538079540050" duration="102000" />
       <workItem from="1538079925868" duration="1538000" />
       <workItem from="1538170673360" duration="3085000" />
-      <workItem from="1538499093676" duration="5185000" />
+      <workItem from="1538499093676" duration="5387000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9910000" />
+    <option name="totallyTimeSpent" value="10112000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -310,7 +310,7 @@
     <entry file="file://$PROJECT_DIR$/_source/microblog.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="26" column="174" selection-start-line="26" selection-start-column="174" selection-end-line="26" selection-end-column="174" />
+          <caret line="26" column="243" selection-start-line="26" selection-start-column="243" selection-end-line="26" selection-end-column="243" />
         </state>
       </provider>
     </entry>
