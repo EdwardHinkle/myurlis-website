@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11c93341-0ce1-426f-91f4-9ff95a880ba7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_source/microblog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_source/microblog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_source/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_source/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -91,16 +91,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_source/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+            <state relative-caret-position="555">
+              <caret line="70" column="52" selection-start-line="70" selection-start-column="52" selection-end-line="70" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_source/microblog.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
@@ -132,8 +132,8 @@
         <option value="$PROJECT_DIR$/_source/_posts/2018-10-02-teaser.md" />
         <option value="$PROJECT_DIR$/_source/podcast.xml" />
         <option value="$PROJECT_DIR$/_source/_layouts/episode.html" />
-        <option value="$PROJECT_DIR$/_source/index.html" />
         <option value="$PROJECT_DIR$/_source/microblog.xml" />
+        <option value="$PROJECT_DIR$/_source/index.html" />
       </list>
     </option>
   </component>
@@ -232,12 +232,12 @@
       <workItem from="1538079540050" duration="102000" />
       <workItem from="1538079925868" duration="1538000" />
       <workItem from="1538170673360" duration="3085000" />
-      <workItem from="1538499093676" duration="4445000" />
+      <workItem from="1538499093676" duration="4598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9170000" />
+    <option name="totallyTimeSpent" value="9323000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -300,17 +300,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_source/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_source/microblog.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="116" selection-start-line="27" selection-start-column="116" selection-end-line="27" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_source/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="70" column="52" selection-start-line="70" selection-start-column="52" selection-end-line="70" selection-end-column="52" />
         </state>
       </provider>
     </entry>
