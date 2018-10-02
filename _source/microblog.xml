@@ -24,7 +24,7 @@ layout: null
       {% assign episode_permalink = episode.url | prepend: site.baseurl | prepend: site.url %}
       <item>
         <itunes:author>{{ episode.authors }}</itunes:author>
-        <description><![CDATA[My Url Is {{ episode.title }} {% if episode.episode_number %}(Episode {{episode.episode_number}}){% endif %}<a href="{{episode_permalink}}">myurlis.com</a><audio controls="controls" src="{{ episode.audio }}"></audio>]]></description>
+        <description><![CDATA[<a href="{{episode_permalink}}">My Url Is {{ episode.title }} {% if episode.episode_number %}(Episode {{episode.episode_number}}){% endif %}</a><br><audio controls="controls" src="{{ episode.audio }}"></audio>]]></description>
         {% if episode.photo %}
           <itunes:image href="{{ episode.photo }}"/>
         {% endif %}
