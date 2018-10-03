@@ -18,6 +18,42 @@
     
       
       <item>
+        <title>My Url Is aaronparecki.com (Episode 1)</title>
+        <itunes:author>Eddie Hinkle & Aaron Parecki</itunes:author>
+        <description><![CDATA[
+        <p>In this episode <a href="https://eddiehinkle.com" class="u-category h-card">Eddie</a> interviews <a href="https://aaronparecki.com" class="u-category h-card">Aaron Parecki</a>, one of the co-founders of the <a href="https://indieweb.org">IndieWeb</a>. We talk about how the IndieWeb got started, what makes an IndieWebCamp particularly memorable and how he decides if a new feature should be a public service or part of his website.</p>
+
+<ul>
+  <li>Service: <a href="https://indielogin.com">IndieLogin</a></li>
+  <li>Service: <a href="http://telegraph.p3k.io">Telegraph</a> (Sending Webmentions)</li>
+  <li>Service: <a href="http://webmention.io">Webmention.io</a> (Receive Webmentions)</li>
+  <li><a href="https://indieweb.org/2018/NYC">Aaron <em>was</em> able to attend IndieWebCamp NYC 2018</a></li>
+  <li><a href="https://indieweb.org/2018/Nuremberg">IndieWebCamp Nuremberg 2018 is coming soon</a></li>
+  <li><a href="https://micro.blog">Micro.blog, an easy way to get started in the IndieWeb</a></li>
+  <li><a href="https://myurlis.com/assets/show_notes/aaronparecki_trip_status.png">Screenshot of Aaron’s trip status on his website</a></li>
+  <li>Article: <a href="https://aaronparecki.com/2018/06/30/11/your-first-webmention">Sending your First Webmention from Scratch</a></li>
+  <li>Article: <a href="https://aaronparecki.com/2018/04/20/46/indieweb-reader-my-new-home-on-the-internet">An IndieWeb reader: My new home on the internet</a></li>
+  <li><a href="https://indieweb.org/p3k#Address_Book">Aaron completed some initial work on his Address Book</a></li>
+</ul>
+
+        <p>Find this episode on the web at <a href="https://myurlis.com/episodes/001/">https://myurlis.com/episodes/001/</a>.</p>
+        <audio src="/assets/audio/001-aaronparecki.mp3"></audio>
+        ]]></description>
+        
+          <itunes:image href="/assets/images/episode_001.jpg"/>
+        
+        <link>https://myurlis.com/episodes/001/</link>
+        <enclosure type="audio/mpeg" length="17368716" url="/assets/audio/001-aaronparecki.mp3"/>
+        <guid>https://myurlis.com/episodes/001/</guid>
+        <pubDate>Wed, 03 Oct 2018 08:30:00 -0400</pubDate>
+        
+          <itunes:duration>17:17</itunes:duration>
+        
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    
+      
+      <item>
         <title>My Url Is Teaser Trailer </title>
         <itunes:author>Eddie Hinkle</itunes:author>
         <description><![CDATA[

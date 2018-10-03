@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11c93341-0ce1-426f-91f4-9ff95a880ba7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_source/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_source/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_public/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_public/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_source/_posts/2018-10-03-aaronparecki.md" beforeDir="false" afterPath="$PROJECT_DIR$/_source/_posts/2018-10-03-aaronparecki.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +19,12 @@
     <session id="1596937857">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -45,7 +48,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="2799" />
-          <entry key="md" value="598" />
+          <entry key="md" value="600" />
           <entry key="rb" value="5" />
           <entry key="rss" value="218" />
           <entry key="xml" value="325" />
@@ -55,7 +58,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="2799" />
-          <entry key="PLAIN_TEXT" value="821" />
+          <entry key="PLAIN_TEXT" value="823" />
           <entry key="XML" value="325" />
           <entry key="YAML" value="98" />
         </counts>
@@ -73,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_source/_posts/2018-10-03-aaronparecki.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+              <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -94,13 +97,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_source/_layouts/episode.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="610">
+            <state relative-caret-position="705">
               <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_source/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="701">
@@ -142,8 +145,8 @@
         <option value="$PROJECT_DIR$/_source/podcast.xml" />
         <option value="$PROJECT_DIR$/_source/microblog.xml" />
         <option value="$PROJECT_DIR$/_source/_layouts/episode.html" />
-        <option value="$PROJECT_DIR$/_source/_posts/2018-10-03-aaronparecki.md" />
         <option value="$PROJECT_DIR$/_source/index.html" />
+        <option value="$PROJECT_DIR$/_source/_posts/2018-10-03-aaronparecki.md" />
       </list>
     </option>
   </component>
@@ -243,12 +246,13 @@
       <workItem from="1538079540050" duration="102000" />
       <workItem from="1538079925868" duration="1538000" />
       <workItem from="1538170673360" duration="3085000" />
-      <workItem from="1538499093676" duration="7759000" />
+      <workItem from="1538499093676" duration="7862000" />
+      <workItem from="1538570586041" duration="27000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12484000" />
+    <option name="totallyTimeSpent" value="12614000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -290,13 +294,6 @@
     <entry file="file://$PROJECT_DIR$/_source/about.md" />
     <entry file="file://$PROJECT_DIR$/_source/_plugins/podcast_rss.rb" />
     <entry file="file://$PROJECT_DIR$/_source/_layouts/podcast_rss.rss" />
-    <entry file="file://$PROJECT_DIR$/_source/microblog.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="243" selection-start-line="26" selection-start-column="243" selection-end-line="26" selection-end-column="243" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_source/podcast.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -313,15 +310,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_source/_layouts/episode.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="610">
+        <state relative-caret-position="705">
           <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_source/_posts/2018-10-03-aaronparecki.md">
+    <entry file="file://$PROJECT_DIR$/_source/microblog.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        <state relative-caret-position="390">
+          <caret line="26" column="243" selection-start-line="26" selection-start-column="243" selection-end-line="26" selection-end-column="243" />
         </state>
       </provider>
     </entry>
@@ -329,6 +326,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="701">
           <caret line="82" column="31" selection-start-line="82" selection-start-column="31" selection-end-line="82" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_source/_posts/2018-10-03-aaronparecki.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
         </state>
       </provider>
     </entry>

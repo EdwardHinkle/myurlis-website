@@ -18,6 +18,22 @@
     
       
       <item>
+        <itunes:author>Eddie Hinkle & Aaron Parecki</itunes:author>
+        <description><![CDATA[<a href="https://myurlis.com/episodes/001/">My Url Is aaronparecki.com (Episode 1)</a><br><audio controls="controls" src="/assets/audio/001-aaronparecki.mp3"></audio><br>]]></description>
+        
+          <itunes:image href="/assets/images/episode_001.jpg"/>
+        
+        <link>https://myurlis.com/episodes/001/</link>
+        <guid>https://myurlis.com/episodes/001/</guid>
+        <pubDate>Wed, 03 Oct 2018 08:30:00 -0400</pubDate>
+        
+          <itunes:duration>17:17</itunes:duration>
+        
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    
+      
+      <item>
         <itunes:author>Eddie Hinkle</itunes:author>
         <description><![CDATA[<a href="https://myurlis.com/episodes/000/">My Url Is Teaser Trailer </a><br><audio controls="controls" src="https://myurlis.com/assets/audio/teaser-trailer.mp3"></audio><br>]]></description>
         

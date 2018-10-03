@@ -1,5 +1,5 @@
 ---
-date: '2018-10-03 09:00:00 -0400'
+date: '2018-10-03 08:30:00 -0400'
 title: 'aaronparecki.com'
 authors: 'Eddie Hinkle & Aaron Parecki'
 duration: '17:17'
