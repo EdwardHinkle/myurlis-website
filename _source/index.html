@@ -71,6 +71,10 @@ layout: null
                 display: block;
                 width: 100%;
             }
+
+            .hidden {
+                display: none;
+            }
             
             @media (max-width: 900px) {
                 .podcast-episodes {
@@ -87,7 +91,7 @@ layout: null
     </head>
     <body>
         <div class="h-card">
-            <a href="/" class="u-url" style="display: none;"></a>
+            <a href="/" class="u-url hidden"></a>
             <img class="u-photo" style="display: none;" src="assets/images/badge_logo.png">
             <p class="p-note"><span class="p-name">My Url Is</span> features a new guest every two weeks to talk about how they got involved with the IndieWeb and what hopes, goals and aspirations they have for the community and for their website. The guests are a combination of those both new to the IndieWeb and those who have helped build it from the beginning.</p>
         </div>
@@ -104,10 +108,9 @@ layout: null
             {% for episode in site.posts %}
                 <div class="episode h-entry">
                     {% assign episode_permalink = episode.url | prepend: site.baseurl | prepend: site.url %}
-                    <a href="/" class="u-author" style="display: none;"></a>
-                    <a class="u-url" href="{{episode_permalink}}"><img width="200px" class="u-featured" src="{{episode.photo}}" alt="{{episode.title}}"></a>
+                    <a href="/" class="u-author hidden"></a>
+                    <a class="u-url" href="{{episode_permalink}}"><img width="200px" class="u-featured p-name" src="{{episode.photo}}" alt="{{episode.title}}"></a>
                     <audio class="podcast-audio u-audio" src="{{episode.audio}}" controls></audio>
-                    <h4><a href="{{episode_permalink}}" class="p-name"></a></h4>
                 </div>
             {% endfor %}
         </div>
