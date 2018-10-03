@@ -23,3 +23,7 @@ In this episode <a href="https://eddiehinkle.com" class="u-category h-card">Eddi
 - Article: [Sending your First Webmention from Scratch](https://aaronparecki.com/2018/06/30/11/your-first-webmention)
 - Article: [An IndieWeb reader: My new home on the internet](https://aaronparecki.com/2018/04/20/46/indieweb-reader-my-new-home-on-the-internet)
 - [Aaron completed some initial work on his Address Book](https://indieweb.org/p3k#Address_Book)
+
+If you enjoyed this podcast:
+- Please [leave a review in Apple Podcasts](https://itunes.apple.com/us/podcast/my-url-is/id1437744240?mt=2) and recommend it using your favorite podcast player.
+- You can help support the development of the show by <a href="https://eddiehinkle.com/sponsor" rel="payment">sponsoring Eddie</a>
