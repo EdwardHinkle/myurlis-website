@@ -19,9 +19,9 @@
       
       <item>
         <itunes:author>Eddie Hinkle & Aaron Parecki</itunes:author>
-        <description><![CDATA[<a href="https://myurlis.com/episodes/001/">My Url Is aaronparecki.com (Episode 1)</a><br><audio controls="controls" src="/assets/audio/001-aaronparecki.mp3"></audio><br>]]></description>
+        <description><![CDATA[<a href="https://myurlis.com/episodes/001/">My Url Is aaronparecki.com (Episode 1)</a><br><audio controls="controls" src="https://myurlis.com/assets/audio/001-aaronparecki.mp3"></audio><br>]]></description>
         
-          <itunes:image href="/assets/images/episode_001.jpg"/>
+          <itunes:image href="https://myurlis.com/assets/images/episode_001.jpg"/>
         
         <link>https://myurlis.com/episodes/001/</link>
         <guid>https://myurlis.com/episodes/001/</guid>

@@ -28,13 +28,13 @@ layout: null
         <description><![CDATA[
         {{ episode.content }}
         <p>Find this episode on the web at <a href="{{ episode_permalink }}">{{ episode_permalink }}</a>.</p>
-        <audio src="{{ episode.audio }}"></audio>
+        <audio src="https://myurlis.com{{ episode.audio }}"></audio>
         ]]></description>
         {% if episode.photo %}
-          <itunes:image href="{{ episode.photo }}"/>
+          <itunes:image href="https://myurlis.com{{ episode.photo }}"/>
         {% endif %}
         <link>{{ episode.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <enclosure type="audio/mpeg" {% if episode.enclosure %}length="{{episode.enclosure}}"{% endif %} url="{{ episode.audio }}"/>
+        <enclosure type="audio/mpeg" {% if episode.enclosure %}length="{{episode.enclosure}}"{% endif %} url="https://myurlis.com{{ episode.audio }}"/>
         <guid>{{ episode_permalink }}</guid>
         <pubDate>{{ episode.date | date_to_rfc822 }}</pubDate>
         {% if episode.duration %}

@@ -37,13 +37,13 @@
 </ul>
 
         <p>Find this episode on the web at <a href="https://myurlis.com/episodes/001/">https://myurlis.com/episodes/001/</a>.</p>
-        <audio src="/assets/audio/001-aaronparecki.mp3"></audio>
+        <audio src="https://myurlis.com/assets/audio/001-aaronparecki.mp3"></audio>
         ]]></description>
         
-          <itunes:image href="/assets/images/episode_001.jpg"/>
+          <itunes:image href="https://myurlis.com/assets/images/episode_001.jpg"/>
         
         <link>https://myurlis.com/episodes/001/</link>
-        <enclosure type="audio/mpeg" length="17368716" url="/assets/audio/001-aaronparecki.mp3"/>
+        <enclosure type="audio/mpeg" length="17368716" url="https://myurlis.com/assets/audio/001-aaronparecki.mp3"/>
         <guid>https://myurlis.com/episodes/001/</guid>
         <pubDate>Wed, 03 Oct 2018 08:30:00 -0400</pubDate>
         
