@@ -18,6 +18,86 @@
     
       
       <item>
+        <title>My Url Is jgregorymcverry.com (Episode 3)</title>
+        <itunes:author>Eddie Hinkle &amp; Greg McVerry</itunes:author>
+        <description><![CDATA[
+        <p>In this episode <a href="https://eddiehinkle.com" class="u-category h-card">Eddie</a> interviews <a href="https://jgregorymcverry.com" class="u-category h-card">Greg McVerry</a>. We talk about how Greg has used blogging and the IndieWeb as a professor, how his kids are an important part of what the IndieWeb means to him, his website woes and finally brainstorm how private groups could work on the IndieWeb.</p>
+
+<ul>
+  <li>Article: <a href="http://quickthoughts.jgregorymcverry.com/2018/10/17/some-indieweb-firsts">Greg summarizes some of his IndieWeb firsts</a></li>
+  <li>Article: <a href="https://eddiehinkle.com/2018/10/17/12/article/">Following in the IndieWeb: The Next Frontier</a>
+    <ul>
+      <li>Greg wrote some short posts and Eddie replied with this follow-up article discussing some of the topics that this episode touched on.</li>
+    </ul>
+  </li>
+  <li><a href="https://indieweb.org/AutoAuth">AutoAuth</a> A new concept around communicating privately on the IndieWeb.</li>
+</ul>
+
+<p>If you enjoyed this podcast:</p>
+<ul>
+  <li>Please <a href="https://itunes.apple.com/us/podcast/my-url-is/id1437744240?mt=2">leave a review in Apple Podcasts</a> and recommend it using your favorite podcast player.</li>
+  <li>You can help support the development of the show by <a href="https://eddiehinkle.com/sponsor" rel="payment">sponsoring Eddie</a></li>
+</ul>
+
+        <p>Find this episode on the web at <a href="https://myurlis.com/episodes/003/">https://myurlis.com/episodes/003/</a>.</p>
+        <audio src="https://myurlis.com/assets/audio/003-jgregorymcverry.mp3"></audio>
+        ]]></description>
+        
+          <itunes:image href="https://myurlis.com/assets/images/episode_003.jpg"/>
+        
+        <link>https://myurlis.com/episodes/003/</link>
+        <enclosure type="audio/mpeg" length="28962024" url="https://myurlis.com/assets/audio/003-jgregorymcverry.mp3"/>
+        <guid>https://myurlis.com/episodes/003/</guid>
+        <pubDate>Fri, 07 Dec 2018 09:30:00 -0500</pubDate>
+        
+          <itunes:duration>29:46</itunes:duration>
+        
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    
+      
+      <item>
+        <title>My Url Is rosemaryorchard.com (Episode 2)</title>
+        <itunes:author>Eddie Hinkle &amp; Rosemary Orchard</itunes:author>
+        <description><![CDATA[
+        <p>In this episode <a href="https://eddiehinkle.com" class="u-category h-card">Eddie</a> interviews <a href="https://rosemaryorchard.com" class="u-category h-card">Rosemary Orchard</a>, a new member of the community. We talk about how she found the IndieWeb, attending IndieWebCamps remotely, wiki editing challenges and Micropub’s potential with syndication and destination targets.</p>
+
+<ul>
+  <li>Podcast: <a href="https://www.relay.fm/mpu/417">Mac Power Users #417: Workflows with Manton Reece</a></li>
+  <li>IndieWeb compatible service: <a href="https://micro.blog">Micro.blog</a></li>
+  <li>Videos: <a href="https://www.youtube.com/playlist?list=PLk3TtIJ31hqrHQpRxUKmX6q8yJRryKv4J">IndieWebCamp NYC 2018</a></li>
+  <li>Event: <a href="https://indieweb.org/2018/Nuremberg">IndieWebCamp Nuremberg 2018</a></li>
+  <li><a href="https://xn--sr8hvo.ws/">IndieWebRing</a></li>
+  <li>Video: <a href="https://youtu.be/qka8P26ujP0">Building a Micropub Endpoint</a></li>
+  <li>Shortcut: <a href="https://www.icloud.com/shortcuts/187dd1935f7c4744b1b832f13eab0900">Post using Micro.blog and Mastodon</a></li>
+  <li>GitHub Repo: <a href="https://github.com/voxpelli/webpage-micropub-to-github">Micropub Endpoint for Jekyll and other flat-file CMSes</a></li>
+</ul>
+
+<p>If you enjoyed this podcast:</p>
+<ul>
+  <li>Please <a href="https://itunes.apple.com/us/podcast/my-url-is/id1437744240?mt=2">leave a review in Apple Podcasts</a> and recommend it using your favorite podcast player.</li>
+  <li>You can help support the IndieWeb community by <a href="https://indieweb.org/sponsor">sponsoring the IndieWeb</a>;</li>
+  <li>You can help support the development of the show by <a href="https://eddiehinkle.com/sponsor" rel="payment">sponsoring Eddie</a>.</li>
+</ul>
+
+        <p>Find this episode on the web at <a href="https://myurlis.com/episodes/002/">https://myurlis.com/episodes/002/</a>.</p>
+        <audio src="https://myurlis.com/assets/audio/002-rosemaryorchard.mp3"></audio>
+        ]]></description>
+        
+          <itunes:image href="https://myurlis.com/assets/images/episode_002.jpg"/>
+        
+        <link>https://myurlis.com/episodes/002/</link>
+        <enclosure type="audio/mpeg" length="30040335" url="https://myurlis.com/assets/audio/002-rosemaryorchard.mp3"/>
+        <guid>https://myurlis.com/episodes/002/</guid>
+        <pubDate>Wed, 17 Oct 2018 09:30:00 -0400</pubDate>
+        
+          <itunes:duration>30:54</itunes:duration>
+        
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    
+      
+      <item>
         <title>My Url Is aaronparecki.com (Episode 1)</title>
         <itunes:author>Eddie Hinkle &amp; Aaron Parecki</itunes:author>
         <description><![CDATA[

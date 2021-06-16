@@ -18,6 +18,38 @@
     
       
       <item>
+        <itunes:author>Eddie Hinkle & Greg McVerry</itunes:author>
+        <description><![CDATA[<a href="https://myurlis.com/episodes/003/">My Url Is jgregorymcverry.com (Episode 3)</a><br><audio controls="controls" src="https://myurlis.com/assets/audio/003-jgregorymcverry.mp3"></audio><br>]]></description>
+        
+          <itunes:image href="https://myurlis.com/assets/images/episode_003.jpg"/>
+        
+        <link>https://myurlis.com/episodes/003/</link>
+        <guid>https://myurlis.com/episodes/003/</guid>
+        <pubDate>Fri, 07 Dec 2018 09:30:00 -0500</pubDate>
+        
+          <itunes:duration>29:46</itunes:duration>
+        
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    
+      
+      <item>
+        <itunes:author>Eddie Hinkle & Rosemary Orchard</itunes:author>
+        <description><![CDATA[<a href="https://myurlis.com/episodes/002/">My Url Is rosemaryorchard.com (Episode 2)</a><br><audio controls="controls" src="https://myurlis.com/assets/audio/002-rosemaryorchard.mp3"></audio><br>]]></description>
+        
+          <itunes:image href="https://myurlis.com/assets/images/episode_002.jpg"/>
+        
+        <link>https://myurlis.com/episodes/002/</link>
+        <guid>https://myurlis.com/episodes/002/</guid>
+        <pubDate>Wed, 17 Oct 2018 09:30:00 -0400</pubDate>
+        
+          <itunes:duration>30:54</itunes:duration>
+        
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    
+      
+      <item>
         <itunes:author>Eddie Hinkle & Aaron Parecki</itunes:author>
         <description><![CDATA[<a href="https://myurlis.com/episodes/001/">My Url Is aaronparecki.com (Episode 1)</a><br><audio controls="controls" src="https://myurlis.com/assets/audio/001-aaronparecki.mp3"></audio><br>]]></description>
         

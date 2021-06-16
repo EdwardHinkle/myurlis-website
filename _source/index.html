@@ -111,6 +111,7 @@ layout: null
                     <a href="/" class="u-author hidden"></a>
                     <a class="u-url" href="{{episode_permalink}}"><img width="200px" class="u-featured p-name" src="{{episode.photo}}" alt="{{episode.title}}"></a>
                     <audio class="podcast-audio u-audio" src="{{episode.audio}}" controls></audio>
+                    <time datetime="{{ episode.date | date_to_xmlschema }}" itemprop="datePublished" class="episode-date dt-published"><a href="{{episode_permalink}}">{{ episode.date | date: "%b %-d, %Y" }}</a></time>
                 </div>
             {% endfor %}
         </div>

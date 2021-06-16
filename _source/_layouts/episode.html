@@ -16,7 +16,7 @@
             margin: 0 auto;
         }
 
-        .podcast-notes {
+        .podcast-notes, .episode-date {
             width: 40%;
             margin: 0 auto;
             display: block;
@@ -49,7 +49,7 @@
         }
 
         @media (max-width: 900px) {
-            .podcast-notes, .podcast-audio {
+            .podcast-notes, .podcast-audio, .episode-date {
                 width: 90%;
             }
         }
@@ -64,7 +64,7 @@
         <a href="/" class="all-episodes-link">View All Episodes</a>
         <h2 class="p-name">My Url Is {{ page.title }} {% if page.episode_number %}(Episode {{page.episode_number}}){% endif %}</h2>
         <div class="e-content podcast-notes">{{page.content}}</div>
-        <a href="" class="u-url"></a>
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished" class="episode-date dt-published"><a href="" class="u-url">{{ page.date | date: "%b %-d, %Y" }}</a></time>
     </div>
     <div class="h-card hidden">
         <a href="/" class="u-url"></a>
